@@ -212,23 +212,7 @@
 			"disableFollowShoot": true
 		},
 		"savePlayProgressStrategy": 1,
-		"profileCommonTag": {
-			"leftUpTag": {
-				"type": "RECENT_RELEASE",
-				"title": "1小时前",
-				"shortTitle": "1小时前",
-				"style": 1,
-				"photoTime": 0,
-				"styleDetail": {
-					"fontColor": "#222222",
-					"bgColor": "#FFFFFF",
-					"alpha": 1.0
-				},
-				"rank": 0
-			},
-			"priority": ["FRIEND_VISIBLE", "IMGROUP_VISIBLE", "PARTIALLY_VISIBLE", "PARTIALLY_INVISIBLE", "PRIVACY", "TUBE", "COCREATE", "KARAOKE_DUET", "KARAOKE", "PANORAMIC", "MOOD", "HORIZONTAL", "VERTICAL", "HOT_BOARD", "PROFILE_COMMON_TAG"],
-			"needClearTag": false
-		},
+
 		"editInfo": {},
 		"fastCommentType": 1,
 		"subscribeNotification": false,
